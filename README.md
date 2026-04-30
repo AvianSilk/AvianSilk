@@ -1,6 +1,6 @@
 # Hi, I'm Venkata!
 
-## Sharing My Journey Toward Becoming a Software Engineer
+## Sharing My Journey Towards Becoming a Software Engineer
 
 **University of Toronto Mississauga, H.B.Sc. Computer Science**
 
