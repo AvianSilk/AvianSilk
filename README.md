@@ -54,11 +54,4 @@ Mississauga, ON, Canada | Dean's List 2024 & 2025
 ![NPM](https://img.shields.io/badge/NPM-%23CB3837.svg?style=for-the-badge&logo=npm&logoColor=white)
 
 ## GitHub Stats:
-<div align="center">
-
 ![](https://github-readme-stats.vercel.app/api?username=AvianSilk&theme=holi&hide_border=false&include_all_commits=true&count_private=true)
-<br/>
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=AvianSilk&theme=holi&layout=donut)
-
-
-</div>
