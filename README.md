@@ -46,12 +46,11 @@ Mississauga, ON, Canada | Dean's List 2024 & 2025
 ![Claude](https://img.shields.io/badge/Claude-000000?style=for-the-badge&logo=anthropic&logoColor=white)
 ![Google Gemini](https://img.shields.io/badge/Google%20Gemini-8E75B2?style=for-the-badge&logo=googlegemini&logoColor=white)
 ![Gmail SMTP](https://img.shields.io/badge/Gmail%20SMTP-D14836?style=for-the-badge&logo=gmail&logoColor=white)
-<!-- ![AWS CloudFront](https://img.shields.io/badge/AWS%20CloudFront-FF9900?style=for-the-badge&logo=amazonaws&logoColor=white) -->
 
 ## Tools:
 ![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white)
 ![Vite](https://img.shields.io/badge/vite-%23646CFF.svg?style=for-the-badge&logo=vite&logoColor=white)
 ![NPM](https://img.shields.io/badge/NPM-%23CB3837.svg?style=for-the-badge&logo=npm&logoColor=white)
 
-## GitHub Stats:
-![](https://github-readme-stats.vercel.app/api?username=AvianSilk&theme=holi&hide_border=false&include_all_commits=true&count_private=true)
+<!-- ## GitHub Stats:
+![](https://github-readme-stats.vercel.app/api?username=AvianSilk&theme=holi&hide_border=false&include_all_commits=true&count_private=true) -->
